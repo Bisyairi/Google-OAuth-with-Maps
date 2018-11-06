@@ -1,4 +1,4 @@
-# Google-OAuth-with-Map
+# GoogleOAuthWithMap
 Lab Activity for Distributed Application Development course.
 
 # Quickstart
