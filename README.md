@@ -25,7 +25,7 @@ Login page:
 ![image](https://user-images.githubusercontent.com/44804051/48070425-d247a700-e212-11e8-9ebf-d673f90db8ad.png)
 
 Authorization with OAuth 2.0:
-![image](https://user-images.githubusercontent.com/44804051/48070656-58fc8400-e213-11e8-96d6-676cc941e6f6.png)
+![image](https://user-images.githubusercontent.com/44804051/48070967-0a031e80-e214-11e8-8759-3e1b0bb8c509.png)
 
 After successfully login:       
 ![image](https://user-images.githubusercontent.com/44804051/48070687-703b7180-e213-11e8-8ebb-9164574cfcfa.png)
